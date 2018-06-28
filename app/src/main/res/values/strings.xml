@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shopping Application</string>
+    <string name="shopBtn">Shop</string>
+    <string name="desc">Come shop at Canada Computers for your electronic needs!</string>
+</resources>
